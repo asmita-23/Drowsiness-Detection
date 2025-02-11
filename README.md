@@ -1,5 +1,7 @@
 # Drowsiness Detection System
 
+![Drowsiness Detection](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/22606/images/df43de2-1275-7872-ce38-fd1be6e33_ezgif.com-resize_5_.gif)
+
 ## Overview
 This project is a real-time **Drowsiness Detection System** that monitors driver alertness using **computer vision** and **facial landmark detection**. It detects drowsiness by analyzing the **Eye Aspect Ratio (EAR)** and triggers an alert if the driver appears to be drowsy.
 
@@ -42,13 +44,12 @@ python drowsiness_detector.py
 3. Computes the **Eye Aspect Ratio (EAR)**
 4. If EAR remains low for a certain duration, it triggers an alert
 
-## Demo
-![Drowsiness Detection Flow](your-image-link.png)
 
 ## Future Improvements
 - Improve accuracy with deep learning models (e.g., CNNs)
 - Add head pose detection for better drowsiness prediction
 - Mobile app integration
 
-#
+
+
 
